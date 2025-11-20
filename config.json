@@ -1,0 +1,13 @@
+{
+    "input_device_index": 3,
+    "output_device_index": 34,
+    "volume_level": 81,
+    "soundboard_shortcuts": {
+        "0": "C:/Users/Isaque/Documents/voicegaming/sounds/efeito-sonoro-cutuco-correndo.mp3",
+        "home+1": "C:/Users/Isaque/Documents/voicegaming/sounds\\a-risada-do-kiko.mp3",
+        "home+2": "C:/Users/Isaque/Documents/voicegaming/sounds\\among-us-role-reveal-sound.mp3",
+        "home+3": "C:/Users/Isaque/Documents/voicegaming/sounds\\cebolinha-maltratando.mp3",
+        "home+4": "C:/Users/Isaque/Documents/voicegaming/sounds\\efeito-sonoro-cutuco-correndo.mp3",
+        "home+5": "C:/Users/Isaque/Documents/voicegaming/sounds\\oruam-antes-de-pensar-em-matar.mp3"
+    }
+}
