@@ -1,13 +1,18 @@
 {
-    "input_device_index": 3,
-    "output_device_index": 34,
-    "volume_level": 81,
+    "input_device_index": 13,
+    "output_device_index": 24,
+    "monitor_device_index": 5,
+    "volume_level": 73,
+    "mic_volume_level": 72,
+    "monitor_volume_level": 73,
     "soundboard_shortcuts": {
-        "0": "C:/Users/Isaque/Documents/voicegaming/sounds/efeito-sonoro-cutuco-correndo.mp3",
+        "0": "C:/Users/Isaque/Documents/voicegaming/sounds/cebolinha-maltratando.mp3",
         "home+1": "C:/Users/Isaque/Documents/voicegaming/sounds\\a-risada-do-kiko.mp3",
         "home+2": "C:/Users/Isaque/Documents/voicegaming/sounds\\among-us-role-reveal-sound.mp3",
         "home+3": "C:/Users/Isaque/Documents/voicegaming/sounds\\cebolinha-maltratando.mp3",
         "home+4": "C:/Users/Isaque/Documents/voicegaming/sounds\\efeito-sonoro-cutuco-correndo.mp3",
-        "home+5": "C:/Users/Isaque/Documents/voicegaming/sounds\\oruam-antes-de-pensar-em-matar.mp3"
-    }
+        "home+5": "C:/Users/Isaque/Documents/voicegaming/sounds\\oruam-antes-de-pensar-em-matar.mp3",
+        "home+6": "C:/Users/Isaque/Documents/voicegaming/sounds\\tira-tira-caraio-everson-zoio-meme-2.mp3"
+    },
+    "soundboard_folder": "C:/Users/Isaque/Documents/voicegaming/sounds"
 }
